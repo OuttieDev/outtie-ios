@@ -1,11 +1,12 @@
 import XCTest
-@testable import OuttieIOS
+@testable import Outtie
 
-final class OuttieIOSTests: XCTestCase {
+@available(iOS 10.0, *)
+final class OuttieTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(OuttieIOS().text, "Hello, World!")
+        XCTAssertEqual(Outtie().text, "Hello, World!")
     }
 }
