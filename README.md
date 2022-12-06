@@ -53,7 +53,7 @@ Xcode 14 is required to build Outtie iOS SDK.
 ### Swift Package Manager
 Add `https://github.com/OuttieDev/outtie-ios` as a Swift Package Repository in Xcode and follow the instructions to add `Outtie` as a Swift Package.
 
-![outtiespm](https://user-images.githubusercontent.com/69208945/206009197-e8ca2377-10a6-4a41-9279-624e60761cf3.png)
+![outtiespmpic1](https://user-images.githubusercontent.com/69208945/206009405-c4c3c7b3-ca04-4d60-bcba-56e20a5b0185.png)
 
 ## Usage
 
