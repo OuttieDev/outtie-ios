@@ -1,12 +1,10 @@
-![outtiebg1](https://user-images.githubusercontent.com/69208945/207442752-9b73599e-6c50-49e9-b175-cbf48cb4b71d.png)
-
+![outtiebg1](https://user-images.githubusercontent.com/69208945/207443030-8bf58cca-d99e-4618-a0c8-a6fc39632dd4.png)
 
 <h1 align="left"> Outtie iOS SDK</h1>
 
 ![Travis](https://img.shields.io/travis/stripe/stripe-ios/master.svg?style=flat)
 ![CocoaPods](https://img.shields.io/badge/platforms-iOS-orange.svg?maxAge=2592000)
 ![Languages](https://img.shields.io/badge/languages-Swift-orange.svg?maxAge=2592000)
-![License](https://img.shields.io/cocoapods/l/Stripe.svg?style=flat)
 
 The Outtie iOS SDK makes it quick and easy to monetize URL taps in your iOS app. Our SDK helps you add commissionable affiliate links to your iOS apps in minutes. It captures existing URLs and converts them to affiliate links so you can earn every time a user taps a link.
 
