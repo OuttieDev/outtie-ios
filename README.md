@@ -1,4 +1,5 @@
-![outtietoppic](https://user-images.githubusercontent.com/69208945/206003175-3228e56a-841a-4521-9d76-aa3bce957b07.png)
+![outtiebg1](https://user-images.githubusercontent.com/69208945/207442752-9b73599e-6c50-49e9-b175-cbf48cb4b71d.png)
+
 
 <h1 align="left"> Outtie iOS SDK</h1>
 
